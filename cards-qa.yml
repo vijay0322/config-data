@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to EazyBank cards related QA APIs "
+  contactDetails:
+    name: "Smith - QA Lead"
+    email: "smith@eazybank.com"
+  onCallSupport:
+    - (412) 419-5689
+    - (915) 382-4568
